@@ -8,8 +8,7 @@ The Weebsite is very simple, you can see and add a tasks.
 
 Data-Base:
   - mytodo
-Tables:
-  - todos
-    - id (int) (auto-increment)
-    - description (VARCHAR)
-    - completed (TINYINT) [bool]
+    - todos
+      - id (int) (auto-increment)
+      - description (VARCHAR)
+      - completed (TINYINT) [bool]
