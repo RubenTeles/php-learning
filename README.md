@@ -1,4 +1,5 @@
 # php-learning
+![php-learning](https://user-images.githubusercontent.com/75394884/180094351-e142f4a2-6dbb-4496-9c9b-8ad1b5ff516e.gif)
 
 https://laracasts.com/series/php-for-beginners/
 
@@ -12,5 +13,3 @@ Data-Base:
       - id (int) (auto-increment)
       - description (VARCHAR)
       - completed (TINYINT) [bool]
-
-![php-learning](https://user-images.githubusercontent.com/75394884/180094351-e142f4a2-6dbb-4496-9c9b-8ad1b5ff516e.gif)
