@@ -13,3 +13,24 @@ Data-Base:
       - id (int) (auto-increment)
       - description (VARCHAR)
       - completed (TINYINT) [bool]
+
+Content:
+  - Variables;
+  - HTML;
+  - Arrays;
+  - Associative Arrays;
+  - Bolleans;
+  - Conditionals;
+  - Functions;
+  - MySQL
+  - Classes;
+  - PDO;
+  - PDO Refactoring and Collaborators;
+  - Config;
+  - Router;
+  - Array Filtering;
+  - Forms, Request Types, and Routing;
+  - Composer Autoading;
+  - DI Container;
+  - Controllers Classes;
+  - Namespaces.
